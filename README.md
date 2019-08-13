@@ -1,6 +1,8 @@
 # CrazyBioUtils
 These simple scripts can be combined into pipeline to address complex bioinformatics problems. The usage of each script can be displayed by typing ```xxx.pl -h```:
 ```shell
+$ blast2go.pl
+
 Start blast2go...
 SYSNOPSIS
 blast2go.pl [options] [options] -i example.fa -o example
